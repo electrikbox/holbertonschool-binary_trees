@@ -4,7 +4,7 @@
  * binary_tree_ancestor -  return a pointer to the LCA node
  * of the two given nodes
  * LCA is lower common ancestor
- * @first: first pointer
+ * @first: first pointer.
  * @second: second pointer
  * Return: NULL if not ancestor otherwise 0
 */
